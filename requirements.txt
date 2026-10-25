@@ -1,0 +1,3 @@
+streamlit>=1.36
+# Optional: only needed for AI-written summaries
+anthropic>=0.40
